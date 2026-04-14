@@ -4,7 +4,7 @@
 > physics-informed machine learning and SHAP-based explainability —
 > deployed as a live interactive dashboard.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://YOUR-APP-LINK.streamlit.app)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://nidhi-hill-saturation-xai-cdsgves5ycgmczfkz3inai.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-F7931E?logo=scikit-learn&logoColor=white)
 ![SHAP](https://img.shields.io/badge/XAI-SHAP-ff6b6b)
